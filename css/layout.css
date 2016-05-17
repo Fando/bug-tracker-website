@@ -1,0 +1,30 @@
+body {
+	background: #eee;
+}
+
+.header a {margin-right: 0.5em; }
+
+.footer {
+	margin: 0 3em;
+}
+
+.content {
+	margin: 0 3em;
+	text-align: left;
+}
+
+.small-form { width: 350px; }
+
+.red {color: red;}
+.green {color: #31B404;}
+.orange {color: orange;}
+.blue {color:cornflowerblue;}
+
+.inline { display: inline; }
+.inblock { display: inline; }
+.floatl {float: left; }
+.floatr {float: right; }
+.floatn {float: none; }
+.clearl { clear: left; }
+.clearr { clear: right; }
+.clearb { clear: both; }
