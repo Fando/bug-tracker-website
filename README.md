@@ -1,7 +1,7 @@
 # bug-tracker-website
-A basic multi-user login site for creating and tracking software bugs. Built for purpose of demonstrating work with HTML5, jQuery, AJAX, PHP, mySQL.
+A basic multi-user login site for creating and tracking software bugs. Built for the purpose of demonstrating work with HTML5, jQuery, AJAX, PHP, MySQL.
 
-Features inclide:
+Features include:
 
 1. user registration
 2. client and server form-field verification for email, password and username fields.
