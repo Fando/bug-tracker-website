@@ -9,5 +9,5 @@ Features include:
 4. lock out after 5 unsuccessful login attempts withing a specific period of time.
 5. a form for creating new and editing existing bugs
 6. mySQL databased with basic tables and queries
-7. password hashing and storage with accordance to BCRYPT PHP 5.5 password_compat.php library
+7. password hashing and storage in accordance with BCRYPT PHP 5.5 password_compat.php library
 8. basic AJAX form posting and page loading via jQuery
