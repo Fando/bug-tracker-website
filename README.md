@@ -17,3 +17,10 @@ How to install database:
 
 1. Execute, bug-tracker-database.sql, file found in the database folder to install the database
 2. Change the database connection string found in, db.php, to accomodate your settings
+
+
+Requirements:
+
+1. Apache 2.2.21
+2. PHP 5.3.8
+3. MySQL 5.5.16
